@@ -1,5 +1,6 @@
-## Hi there 👋
-I’m currently working on completing my major in Geoscience and minor in Oceanography.
+## Hi, I'm Thomas Dowler
+I’m currently a senior working on completing my major in Geoscience and minor in Oceanography.
+
 Fun fact: I am in a local band that plays around Wilmington and I love to hike, kayak, and paddleboard.
 <!--
 **ThomasD03/ThomasD03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
